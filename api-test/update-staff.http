@@ -1,0 +1,10 @@
+PUT http://localhost:8080/staff/update/1
+Content-Type: application/json
+
+{
+    "name": "Jim",
+    "lastName": "Smith",
+    "role": "Doctor Surgent",
+    "available": true,
+    "clinic": "Beauty Clinic 123"
+}

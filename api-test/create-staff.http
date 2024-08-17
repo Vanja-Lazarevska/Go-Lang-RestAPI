@@ -1,0 +1,12 @@
+POST http://localhost:8080/staff
+Content-Type: application/json
+
+{
+    "name": "Sam",
+    "lastName":"Smith",
+    "role": "Surgeon",
+    "available":true,
+    "clinic": "Sam Clinics"
+}
+
+

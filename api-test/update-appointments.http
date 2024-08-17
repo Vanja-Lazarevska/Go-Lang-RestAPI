@@ -1,0 +1,9 @@
+PUT http://localhost:8080/update_appointment/1
+Content-Type: application/json
+Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6MSwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsImV4cCI6MTcyMzg5OTk3NH0.6lF_L9HiaYDJdz-oKd1jCNp12W8BFoSoWPOWWNwHTDE
+
+{
+    "type": "Consultation with Doctor Jim",
+    "client_id": 1,
+    "doctors_id": 1
+}

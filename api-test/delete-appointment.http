@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/delete_appointment/
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6MiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsImV4cCI6MTcyMzc0NjI1N30.2xwz_bCgxFhkyDqEKkb0yj9x-uLQUVxaqsaou1z4MEo

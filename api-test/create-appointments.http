@@ -1,0 +1,8 @@
+POST http://localhost:8080/create_appointment
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6MiwiZW1haWwiOiJhbmFAZXhhbXBsZS5jb20iLCJleHAiOjE3MjM5MjEyMjV9.O1WNVbf_IpqU9SCaQByTR_4rtOFMTEQ2GJ8k_S9EihA
+
+{
+    "type": "Consultation",
+    "doctors_id": 2
+}
